@@ -1,0 +1,30 @@
+
+#dictionary {
+	background-color: red;
+	border: 2px solid blue;
+}
+
+.jeffersons {
+	font-family: Geneva;
+	padding: 10px;
+	border-left: 10px ridge black;
+}
+
+.morkNmindy {
+	font-size: 1.2em;
+	border: 3px solid red;
+	border-radius: 10% 0;
+}
+
+.jackson5 {
+	color: green;
+	padding: 1.5em;
+	border: 5px solid green;
+	border-radius: 0 10px 5% 0;
+}
+
+.steveMartin {
+	line-height: 1.5;
+	border: 5px solid blue;
+	border-radius: 30px;
+}
